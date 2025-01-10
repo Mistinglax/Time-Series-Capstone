@@ -32,7 +32,6 @@ if __name__ == '__main__':
     parser.add_argument('--data', type=str, required=True, default='ETTm1', help='dataset type')
     parser.add_argument('--data_version', type=str, required=True, default='v2',
                         help='Dataset version. Specific to Green_Energy.')
-    
     # parser.add_argument('--root_path', type=str, default='./data/ETT/', help='root path of the data file')
     parser.add_argument('--root_path', type=str, default='/content/Time-Series-Capstone/dataset/m5', help='root path of the data file')
     
