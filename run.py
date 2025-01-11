@@ -33,7 +33,7 @@ if __name__ == '__main__':
     parser.add_argument('--data_version', type=str, required=True, default='v2',
                         help='Dataset version. Specific to Green_Energy.')
     # parser.add_argument('--root_path', type=str, default='./data/ETT/', help='root path of the data file')
-    parser.add_argument('--root_path', type=str, default='/content/drive/MyDrive/dataset/m5', help='root path of the data file')
+    parser.add_argument('--root_path', type=str, default='/content/drive/MyDrive/dataset/m5/', help='root path of the data file')
     
     parser.add_argument('--data_path', type=str, default='ETTh1.csv', help='data file')
     parser.add_argument('--target', type=str, default='OT', help='target feature in S or MS task')
