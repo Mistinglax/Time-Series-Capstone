@@ -28,4 +28,4 @@ the corresponding time step.
 - Time Series Library: https://github.com/thuml/Time-Series-Library
 
 ## Visuallized results
-[Wandb](https://wandb.ai/zhimingfan-university-of-california-berkeley/capstone?nw=nwuserzhimingfan).
+- **Weight and Bias:** This platform gives a complete record of each run process and results of different models. [Wandb](https://wandb.ai/zhimingfan-university-of-california-berkeley/capstone?nw=nwuserzhimingfan)
