@@ -3,6 +3,7 @@ Supervisior: Zeyu Zheng, zyzheng@berkeley.edu. \
 Advisor: Yunkai Zhang, yunkai_zhang@berkeley.edu. \
 This repository applies time series models to the [M5 dataset](https://www.kaggle.com/competitions/m5-forecasting-accuracy).
 
+'''
 ## Run Instructions
 0. Install the required packages using Python 3.9.6.
 ```
@@ -20,7 +21,7 @@ You will need to create your own W&B account. Once you do, you should update ent
 ```
 bash scripts/forecast/m5/Linear.sh
 ```
-
+'''
 # M5 Data Versions
 - v0: Predict the sales for each product category in each store.
 Meta variables: state_id, store_id, product_category_id.
