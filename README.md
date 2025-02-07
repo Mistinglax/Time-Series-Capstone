@@ -27,5 +27,5 @@ the corresponding time step.
 ## Acknowledgements
 - Time Series Library: https://github.com/thuml/Time-Series-Library
 
-## Wandb link
-[Wandb]https://wandb.ai/zhimingfan-university-of-california-berkeley/capstone?nw=nwuserzhimingfan
+## Visuallized results: Wandb link
+[Wandb](https://wandb.ai/zhimingfan-university-of-california-berkeley/capstone?nw=nwuserzhimingfan).
